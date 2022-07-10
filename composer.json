@@ -2,13 +2,13 @@
     "name": "cwola/laravel-eloquent-bulk",
     "description": "A simple drop-in solution for providing bulk-insert for the Eloquent models.",
     "type": "library",
-    "version": "1.0.0",
     "keywords": [
         "php",
         "cwola",
         "laravel",
         "eloquent",
-        "bulk"
+        "bulk",
+        "insert"
     ],
     "license": "MIT",
     "authors": [
@@ -16,8 +16,9 @@
             "name": "r-jimbo"
         }
     ],
+    "homepage": "https://github.com/cwola/attribute",
     "require": {
-      "php": "^8.0",
+      "php": ">=8.0.0",
       "laravel/framework": "^9.0",
       "cwola/reflector": "^1.0"
     },
