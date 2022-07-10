@@ -9,6 +9,11 @@ A simple drop-in solution for providing bulk-insert for the Eloquent models.
 ## Requirement
 - PHP8.0+
 
+## Installation
+```
+composer require cwola/laravel-eloquent-bulk
+```
+
 ## Usage
 ```
 <?php
