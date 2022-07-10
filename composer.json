@@ -16,7 +16,7 @@
             "name": "r-jimbo"
         }
     ],
-    "homepage": "https://github.com/cwola/attribute",
+    "homepage": "https://github.com/cwola/laravel-eloquent-bulk",
     "require": {
       "php": ">=8.0.0",
       "laravel/framework": "^9.0",
